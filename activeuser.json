@@ -4,13 +4,13 @@
         "username": "user1",
         "password": "harsh6079",
         "expirydate": "28-12-2026",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "device456",
         "username": "user2",
         "password": "pass576",
         "expirydate": "15-09-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     }
 ]
