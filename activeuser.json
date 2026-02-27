@@ -2,14 +2,14 @@
     {
         "device_id": "ac1aa8866d49191c", 
         "username": "user1",
-        "password": "harsh6079",
+        "password": "harsh2744",
         "expirydate": "28-12-2026",
         "Allowoffline": false
     },
     {
         "device_id": "device456",
         "username": "user2",
-        "password": "pass576",
+        "password": "pass6079",
         "expirydate": "15-09-2026",
         "Allowoffline": true
     }
